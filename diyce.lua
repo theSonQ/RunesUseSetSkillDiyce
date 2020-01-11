@@ -29,3 +29,8 @@ for x,tbl in ipairs(Skill) do
 			end
 		end
 	end
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+--Przyklad:
+i=i+1; Skill[i] = {name = "ID: 490342" , use = not tDEAD}--"Kierunek otchlani"
